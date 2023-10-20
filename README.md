@@ -1,6 +1,10 @@
 # Andriod_final
 App with navigation and api
 
+Team : Ekta Saraf (21BCE5397)
+       Aanchal Singh(21BCE5447)
+       Amancharla Manuhya(21BCE5455)
+
 ## Getting Started
 
 ### Prerequisites
